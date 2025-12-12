@@ -29,3 +29,5 @@ name = "John"; // Now, 'name' holds the value "John".
 prefer not to use var
 because of issue in block scope and function scope
 */
+
+console.table([message, count, pi, age, birthYear, name]);
